@@ -1,0 +1,13 @@
+1.0.2
+- Updated Mikado Instagram Feed Plugin to 1.0.1
+- Fixed problem with Top Reviews Carousel when DB prefix is not 'wp_'
+
+1.0.1
+- Updated Woocommerce template files for 2.6.4 compatibility
+- Updated Revolution Slider to 5.2.6
+- Fixed missing months in dropdown
+- Fixed problem with text area content in Wordpress 4.6
+- Fixed search in horizontal search shortcode
+- Fixed problem with booking when DB prefix is not 'wp_'
+- Fixed bug with 'Extra class name' option in Accordion shortcode
+

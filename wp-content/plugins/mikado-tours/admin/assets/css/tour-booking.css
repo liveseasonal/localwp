@@ -1,0 +1,75 @@
+#mkdf-tours-booking-meta-box .inside {
+	padding: 0;
+	margin: 0;
+}
+
+.mkdf-tour-booking-controls {
+	padding: 10px 20px;
+}
+
+.mkdf-tour-booking-section {
+	padding: 25px 20px 20px;
+	border-bottom: 1px solid #e5e5e5;
+
+	position: relative;
+}
+
+.mkdf-tour-booking-section h4 {
+	margin-top: 0;
+}
+
+.mkdf-tour-booking-section label {
+	margin-bottom: 5px !important;
+	display: block;
+	font-weight: 400 !important;
+}
+
+.mkdf-tour-booking-section .mkdf-tour-booking-remove-item {
+	position: absolute;
+	top: 0;
+	right: 0;
+
+	outline: none;
+	box-shadow: none;
+
+	display: block;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background: #428bca;
+	color: #fff !important;
+}
+
+.mkdf-tour-booking-time {
+	position: relative;
+}
+
+.mkdf-tour-booking-time .mkdf-tour-booking-time-remove {
+	position: absolute;
+	top: 0;
+	right: 0;
+
+	width: 34px;
+	height: 34px;
+	line-height: 34px;
+
+	background: #428bca;
+	color: #fff !important;
+}
+
+.mkdf-tour-booking-time .form-group {
+	padding-right: 34px;
+}
+
+#mkdf-tour-booking-messages {
+	padding: 0 20px;
+	margin-top: 20px;
+}
+
+.mkdf-tour-booking-section-validation ul {
+	margin: 0 !important;
+}
+
+.mkdf-tour-booking-section-validation ul li:last-child {
+	margin-bottom: 0;
+}

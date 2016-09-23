@@ -1,0 +1,1466 @@
+# Copyright (C) 2016 Mikado Themes
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Voyage 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/voyagewp\n"
+"POT-Creation-Date: 2016-06-15 07:51:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:14
+msgid "Page you are looking is not found"
+msgstr ""
+
+#: 404.php:22
+msgid "The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site's homepage and see if you can find what you are looking for."
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:30
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:43
+msgid "Leave a Reply:"
+msgstr ""
+
+#: comments.php:44
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:45
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:46 woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: comments.php:47
+msgid "Comment"
+msgstr ""
+
+#: comments.php:51
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:52
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:53
+msgid "Website"
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/content-import.php:100
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/content-import.php:119
+msgid "Important notes:"
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/content-import.php:121
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/content-import.php:122
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: framework/admin/skins/mikado/templates/header.php:19
+msgid "Save Changes"
+msgstr ""
+
+#: framework/mkd-framework.php:548
+#: includes/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:106
+msgid "Position"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:107
+msgid "Instagram"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:108
+#: framework/modules/shortcodes/socialshare/social-share.php:236
+msgid "Twitter"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:109
+#: framework/modules/shortcodes/socialshare/social-share.php:248
+msgid "Pinterest"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:110
+msgid "Tumbrl"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:111
+#: framework/modules/shortcodes/socialshare/social-share.php:233
+msgid "Facebook"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:112
+#: framework/modules/shortcodes/socialshare/social-share.php:239
+msgid "Google Plus"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:113
+msgid "Linkedin"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:255
+msgid "No Comments"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:255
+msgid " Comment "
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:255
+msgid " Comments: "
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:596
+msgid "Pingback:"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:600
+msgid " at "
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:870
+msgid "Continue reading"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:993
+msgid "Read More"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1235
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: framework/modules/blog/templates/lists/parts/filter.php:25
+msgid "All"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/audio.php:4
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/no-posts.php:2
+#: framework/modules/shortcodes/blog-carousel/templates/blog-carousel-holder.php:12
+#: framework/modules/shortcodes/blog-list/templates/blog-list-holder.php:15
+#: framework/modules/shortcodes/blog-slider/templates/blog-slider-template.php:47
+#: search.php:98
+msgid "No posts were found."
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-author.php:2
+#: framework/modules/shortcodes/blog-carousel/templates/blog-carousel-item.php:32
+msgid "by"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-comments.php:7
+msgid "comments"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-comments.php:7
+msgid "comment"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/related-posts.php:4
+msgid "Related Posts"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/tags.php:2
+msgid "Post Tags:"
+msgstr ""
+
+#: framework/modules/blog/templates/single/post-formats/audio.php:22
+#: framework/modules/blog/templates/single/post-formats/gallery.php:21
+#: framework/modules/blog/templates/single/post-formats/link.php:24
+#: framework/modules/blog/templates/single/post-formats/quote.php:27
+#: framework/modules/blog/templates/single/post-formats/standard.php:21
+#: framework/modules/blog/templates/single/post-formats/video.php:23
+#: framework/modules/shortcodes/socialshare/templates/dropdown.php:4
+#: search.php:79
+msgid "Share"
+msgstr ""
+
+#: framework/modules/contactform7/widgets/contact-form-7.php:10
+msgid "Display Contact Form 7"
+msgstr ""
+
+#: framework/modules/contactform7/widgets/contact-form-7.php:28
+msgid "No contact forms found"
+msgstr ""
+
+#: framework/modules/header/functions.php:10
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:11
+msgid "Top Bar Left"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:20
+msgid "Top Bar Center"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:28
+msgid "Top Bar Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:45
+msgid "Right From Main Menu"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:49
+msgid "Widgets added here will appear on the right hand side from the main menu"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:64
+msgid "Right From Mobile Logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:68
+msgid "Widgets added here will appear on the right hand side from the mobile logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:86
+msgid "Sticky Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:90
+msgid "Widgets added here will appear on the right hand side in sticky menu"
+msgstr ""
+
+#: framework/modules/like/like.php:132 framework/modules/like/like.php:145
+msgid "Like this"
+msgstr ""
+
+#: framework/modules/like/like.php:135 framework/modules/like/like.php:148
+msgid "You already like this!"
+msgstr ""
+
+#: framework/modules/search/templates/types/fullscreen-search.php:8
+msgid "Search on site..."
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:28
+msgid "Mikado Accordion Tab"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:42
+msgid "Title"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:45
+msgid "Section"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:46
+msgid "Enter accordion section title."
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:50
+msgid "Section ID"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:52
+msgid "Enter optional row ID. Make sure it is unique, and it is valid as w3c specification: %s (Must not have spaces)"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion-tab.php:52
+msgid "link"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:27
+msgid "Accordion"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:38
+msgid "Extra class name"
+msgstr ""
+
+#: framework/modules/shortcodes/accordions/accordion.php:40
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: framework/modules/shortcodes/blog-list/blog-list.php:39
+#: includes/nav-menu/edit_custom_walker.php:220
+#: includes/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:181
+msgid "Insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: framework/modules/shortcodes/icon/icon.php:81
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/social-share.php:242
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/social-share.php:245
+msgid "Tumblr"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/social-share.php:251
+msgid "vk"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/templates/working-hours-template.php:27
+msgid "Working hours hadn't been set"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:181
+msgid "Monday - Friday"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:188
+msgid "Saturday - Sunday"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:195
+msgid "Monday"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:202
+msgid "Tuesday"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:209
+msgid "Wednesday"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:216
+msgid "Thursday"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:223
+msgid "Friday"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:230
+msgid "Saturday"
+msgstr ""
+
+#: framework/modules/shortcodes/working-hours/working-hours.php:237
+msgid "Sunday"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:101
+msgid " Tag"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:109
+msgid "Author:"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:121
+#: framework/modules/widgets/search-opener/search-opener.php:117
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:130
+msgid "404 - Page not found"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:153
+msgid "Archive"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:246
+msgid "Search results for "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:322
+msgid "Posts tagged "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:326
+msgid "Articles posted by "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:339
+msgid "Page"
+msgstr ""
+
+#: framework/modules/widgets/destination-tours/destination-tours.php:10
+msgid "Display Tours For Current Destination"
+msgstr ""
+
+#: framework/modules/widgets/instagram/instagram.php:13
+msgid "Display instagram images"
+msgstr ""
+
+#: framework/modules/widgets/latest-post/latest-posts.php:10
+msgid "Display posts from your blog"
+msgstr ""
+
+#: framework/modules/widgets/lib/widget-class.php:88
+msgid "There are no options for this widget."
+msgstr ""
+
+#: framework/modules/widgets/tour-item/tour-item.php:10
+msgid "Display Tour items"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:243
+msgid "N"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:244
+msgid "NNE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:245
+msgid "NE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:246
+msgid "ENE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:247
+msgid "E"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:248
+msgid "ESE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:249
+msgid "SE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:250
+msgid "SSE"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:251
+msgid "S"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:252
+msgid "SSW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:253
+msgid "SW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:254
+msgid "WSW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:255
+msgid "W"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:256
+msgid "WNW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:257
+msgid "NW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:258
+msgid "NNW"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:267
+msgid "C"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:267
+msgid "F"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:270
+msgid "m/s"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:270
+msgid "fps"
+msgstr ""
+
+#: framework/modules/widgets/weather/weather.php:328
+msgid "No weather information available"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:8
+msgid "Mikado Woocommerce Dropdown Cart"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:77
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:200
+msgid " x "
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:81
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:205
+#: woocommerce/cart/cart.php:108
+msgid "Remove this item"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:90
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:214
+#: woocommerce/cart/cart-totals.php:81 woocommerce/cart/cart.php:29
+msgid "Total"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:104
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:228
+msgid "Checkout"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:111
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:235
+msgid "View Cart"
+msgstr ""
+
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:119
+#: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:243
+msgid "No products in the cart."
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:90
+msgid "Sale"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:107
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:119
+msgid "First name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:108
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:120
+msgid "Last name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:109
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:121
+msgid "Company name"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:110
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:122
+msgid "Address"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:111
+msgid "Email"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:112
+msgid "Phone"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:113
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:123
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:114
+msgid "State / County"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:273
+msgid "Apply Coupon"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:292
+msgid "Update Cart"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:311
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:329
+msgid "Update Totals"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:349
+msgid "Pay for order"
+msgstr ""
+
+#: framework/modules/woocommerce/woocommerce-template-hooks.php:374
+msgid "Place Order"
+msgstr ""
+
+#: functions.php:884
+msgid "No more posts"
+msgstr ""
+
+#: functions.php:885
+msgid "Loading new posts..."
+msgstr ""
+
+#: functions.php:1043
+msgid "Link To"
+msgstr ""
+
+#: functions.php:1044
+msgid "Set a custom link to be used in Image Gallery for this attachment"
+msgstr ""
+
+#: functions.php:1049
+msgid "Link Text"
+msgstr ""
+
+#: functions.php:1050
+msgid "Set a custom link text to be used in Image Gallery for this attachment"
+msgstr ""
+
+#: header.php:43
+msgid "Top"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+
+#: includes/nav-menu/edit_custom_walker.php:80
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+
+#: includes/nav-menu/edit_custom_walker.php:84
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:109
+msgid "Move up"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:122
+msgid "Move down"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:124
+#: includes/nav-menu/edit_custom_walker.php:126
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:135
+msgid "URL"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:142
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:149
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:157
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:163
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:170
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:177
+msgid "Description"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:179
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:187
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:201
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:214
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:238
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:257
+msgid "Background image for Dropdown"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:272
+msgid "Icon Pack"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:280
+msgid "Only with \"default\" & \"wide with icons\" menu types"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:291
+msgid "Icon"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:312
+msgid "Featured icon"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:319
+msgid "Star"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:322
+msgid "Heart"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:325
+msgid "Arrow"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:335
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:348
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:357
+msgid "Original: %s"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:370
+msgid "Remove"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:375
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:334
+#: includes/plugins/plugins-activation.php:91
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:335
+#: includes/plugins/plugins-activation.php:92
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:337
+#: includes/plugins/plugins-activation.php:93
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:340
+#: includes/plugins/plugins-activation.php:94
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: includes/plugins/class-tgm-plugin-activation.php:377
+#: includes/plugins/plugins-activation.php:103
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:392
+#: includes/plugins/plugins-activation.php:105
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:393
+#: includes/plugins/class-tgm-plugin-activation.php:912
+#: includes/plugins/class-tgm-plugin-activation.php:2618
+#: includes/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:394
+#: includes/plugins/class-tgm-plugin-activation.php:3244
+#: includes/plugins/plugins-activation.php:106
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:395
+#: includes/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: includes/plugins/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1019
+#: includes/plugins/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1206
+#: includes/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: includes/plugins/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: includes/plugins/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: includes/plugins/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: includes/plugins/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: includes/plugins/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: includes/plugins/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: includes/plugins/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: includes/plugins/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: includes/plugins/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3594
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3594
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: includes/plugins/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:95
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:96
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:97
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:98
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:99
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:100
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:101
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:102
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:104
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:107
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/sidebar/mkd-custom-sidebar.php:18
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/mkd-custom-sidebar.php:42
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/sidebar/mkd-custom-sidebar.php:43
+msgid "Add Widget Area"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:49
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:22
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:49
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:96
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:26
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:70
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:26
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/review.php:40
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:49
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review.php:58
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:59
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:32
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Name*"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Email*"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "You must be"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "logged in"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Voyage"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://voyage.mikado-themes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Modern Travel, Tour & Booking Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mikado Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/mikado-themes"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Masonry Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Masonry"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Split Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard Date On Side"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard Whole Post"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Landing Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "WooCommerce"
+msgstr ""
